@@ -16,6 +16,7 @@ This project contains a curated collection of analysis topics across multiple bu
 - Education and public data
 - Sports, media, technology, and real estate
 - Advanced predictive and portfolio-level analytics
+- Technology operations, cloud, support, security, and software engineering analytics
 
 ## Portfolio structure
 
@@ -32,6 +33,10 @@ This project contains a curated collection of analysis topics across multiple bu
 - Finance Dashboard
 - HR Employee Attrition Analysis
 - Marketing Campaign Performance Analysis
+
+### Technology and IT analytics projects
+
+Twenty technology-focused projects cover helpdesk operations, software quality, application and website performance, APIs, cloud costs, cybersecurity, infrastructure, engineering productivity, SaaS, product engagement, and technology KPIs. See the complete linked catalog in [PROJECTS.md](PROJECTS.md).
 
 Each project includes a sample CSV dataset, a Python analysis script, and a README explaining the business question, KPIs, and recommendation.
 
