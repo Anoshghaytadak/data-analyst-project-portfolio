@@ -1,81 +1,84 @@
 # Data Analyst Portfolio
 
-A professional portfolio of business intelligence, analytics, and data science projects built to showcase analytical thinking, dashboarding, and decision-making skills.
+**Business intelligence, product analytics, and decision-ready reporting by [Anoshghaytadak](https://github.com/Anoshghaytadak).**
 
-## About this repository
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Portfolio Topics](https://img.shields.io/badge/Portfolio%20topics-460-0A7EA4)](PROJECTS.md)
+[![Project Folders](https://img.shields.io/badge/Project%20folders-464-1F883D)](projects/)
 
-This project contains a curated collection of analysis topics across multiple business domains, including:
+## What this portfolio demonstrates
 
-- Sales and retail analytics
-- E-commerce and customer behavior
-- Finance and banking
-- HR and workforce analytics
-- Marketing and digital campaigns
-- Healthcare operations
-- Logistics and supply chain
-- Education and public data
-- Sports, media, technology, and real estate
-- Advanced predictive and portfolio-level analytics
-- Technology operations, cloud, support, security, and software engineering analytics
+This repository is built to show how raw business data becomes useful decisions. It covers KPI design, data cleaning, trend analysis, segmentation, operational reporting, performance monitoring, and executive recommendations across 18 business domains.
 
-## Portfolio structure
+**Core toolkit:** Python, SQL, Excel, Power BI, Tableau, CSV data, KPI reporting, exploratory analysis, and business storytelling.
 
-- `index.html` — portfolio dashboard landing page
-- `styles.css` — modern UI styling
-- `script.js` — project catalog rendering logic
-- `PROJECTS.md` — project overview and roadmap
-- `projects/` — 464 project folders with analysis scripts and documentation
-- `script.js` — complete catalog of 460 data analyst project topics across 18 categories
-- `tools/generate_project_starters.py` — reproducible generator for the topic project folders
+## Start here
 
-## Featured sample projects
+| Need | Link |
+| --- | --- |
+| Browse the visual portfolio | [Open `index.html`](index.html) |
+| Explore every category | [Open the project catalog](PROJECTS.md) |
+| Try a detailed analysis | [Sales Performance Dashboard](projects/01-sales-and-business-analytics/sales-performance/README.md) |
+| See technology analytics | [Technology & IT projects](projects/14-technology-and-it/README.md) |
+| Browse all project folders | [Open `projects/`](projects/) |
 
-- Sales Performance Dashboard
-- E-commerce Sales Analysis
-- Finance Dashboard
-- HR Employee Attrition Analysis
-- Marketing Campaign Performance Analysis
+## Featured projects
 
-### Technology and IT analytics projects
+- [Sales Performance Dashboard](projects/01-sales-and-business-analytics/sales-performance/README.md): revenue, profit, units, regions, products, and monthly trends.
+- [E-commerce Sales Analysis](projects/02-e-commerce-analytics/ecommerce-sales/README.md): category revenue, payment behavior, and weekday performance.
+- [Finance Dashboard](projects/03-finance-and-banking/finance-dashboard/README.md): income, expenses, profit, and category-level finance KPIs.
+- [HR Employee Attrition Analysis](projects/04-hr-and-employee-analytics/hr-attrition/README.md): attrition by department and overtime risk.
+- [Marketing Campaign Performance](projects/05-marketing-analytics/marketing-campaigns/README.md): CTR, conversion rate, revenue, and ROI by channel.
+- [Technology KPI Dashboard](projects/14-technology-and-it/technology-kpi-dashboard/README.md): uptime, SLA, deployments, security, and CSAT against targets.
 
-Twenty technology-focused projects cover helpdesk operations, software quality, application and website performance, APIs, cloud costs, cybersecurity, infrastructure, engineering productivity, SaaS, product engagement, and technology KPIs. See the complete linked catalog in [PROJECTS.md](PROJECTS.md).
+## Portfolio scale
 
-The portfolio contains 25 detailed analyst projects with sample datasets, plus 439 topic-specific starter projects. Every catalog topic has its own folder, README, runnable Python starter, suggested KPIs, and portfolio deliverables.
+- **460** data analyst topic ideas across **18** categories
+- **464** separately organized project folders
+- **25** detailed projects with curated sample datasets
+- **439** topic-specific starter projects with README files and runnable Python analysis
+- Every project includes a business question, suggested KPIs, analysis direction, and deliverables
 
-## Complete 460-topic catalog
+## Repository structure
 
-The portfolio website includes all 460 topics from the project roadmap, including sales, e-commerce, finance, HR, marketing, healthcare, transportation, supply chain, education, government, sustainability, sports, entertainment, technology, food, real estate, retail, and advanced analytics. Open [index.html](index.html) to browse the complete catalog. The repository contains 464 folders because it also preserves curated projects whose names differ from the catalog slugs.
+```text
+projects/
+├── 01-sales-and-business-analytics/
+├── 02-e-commerce-analytics/
+├── 03-finance-and-banking/
+├── ...
+└── 18-advanced-portfolio-level-projects/
+	└── project-name/
+		├── README.md
+		└── analysis_script.py
+```
 
-## Run the analysis projects
+- `index.html` — visual portfolio landing page
+- `script.js` — complete 460-topic catalog
+- `PROJECTS.md` — linked category and project index
+- `projects/` — numbered categories containing individual projects
+- `tools/` — scripts that generate and organize the portfolio
 
-From the repository root:
+## Run a project
+
+No external Python packages are needed for the included starter projects.
 
 ```bash
 python3 projects/01-sales-and-business-analytics/sales-performance/sales_dashboard.py
-python3 projects/02-e-commerce-analytics/ecommerce-sales/ecommerce_analysis.py
-python3 projects/03-finance-and-banking/finance-dashboard/finance_dashboard.py
-python3 projects/04-hr-and-employee-analytics/hr-attrition/hr_attrition_analysis.py
-python3 projects/05-marketing-analytics/marketing-campaigns/marketing_campaign_analysis.py
+python3 projects/14-technology-and-it/technology-kpi-dashboard/technology_kpi_dashboard.py
 ```
 
-No external Python packages are required. The projects use Python's built-in CSV and pathlib modules so they are easy to run and explain.
-
-## How to run locally
+To view the portfolio website locally:
 
 ```bash
-cd /Users/macbookpro/data-analyst-project-portfolio
 python3 -m http.server 8000
 ```
 
-Then open:
+Then open `http://localhost:8000`.
 
-```text
-http://localhost:8000
-```
+## GitHub
 
-## GitHub repository
-
-https://github.com/Anoshghaytadak/data-analyst-project-portfolio
+[github.com/Anoshghaytadak/data-analyst-project-portfolio](https://github.com/Anoshghaytadak/data-analyst-project-portfolio)
 
 ## Project categories included
 

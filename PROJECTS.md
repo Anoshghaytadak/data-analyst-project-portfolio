@@ -6,6 +6,27 @@ The full roadmap contains **460 data analyst project topics across 18 categories
 
 ## Available projects
 
+### Category folders
+
+- [01 Sales & Business Analytics](projects/01-sales-and-business-analytics/README.md)
+- [02 E-commerce Analytics](projects/02-e-commerce-analytics/README.md)
+- [03 Finance & Banking](projects/03-finance-and-banking/README.md)
+- [04 HR & Employee Analytics](projects/04-hr-and-employee-analytics/README.md)
+- [05 Marketing Analytics](projects/05-marketing-analytics/README.md)
+- [06 Healthcare Analytics](projects/06-healthcare-analytics/README.md)
+- [07 Transportation & Aviation](projects/07-transportation-and-aviation/README.md)
+- [08 Supply Chain & Logistics](projects/08-supply-chain-and-logistics/README.md)
+- [09 Education Analytics](projects/09-education-analytics/README.md)
+- [10 Government & Public Data](projects/10-government-and-public-data/README.md)
+- [11 Environment & Sustainability](projects/11-environment-and-sustainability/README.md)
+- [12 Sports Analytics](projects/12-sports-analytics/README.md)
+- [13 Entertainment & Media](projects/13-entertainment-and-media/README.md)
+- [14 Technology & IT](projects/14-technology-and-it/README.md)
+- [15 Food & Restaurant Analytics](projects/15-food-and-restaurant-analytics/README.md)
+- [16 Real Estate](projects/16-real-estate/README.md)
+- [17 Retail & FMCG](projects/17-retail-and-fmcg/README.md)
+- [18 Advanced / Portfolio-Level](projects/18-advanced-portfolio-level-projects/README.md)
+
 - [Sales Performance Dashboard](projects/01-sales-and-business-analytics/sales-performance/README.md)
 - [E-commerce Sales Analysis](projects/02-e-commerce-analytics/ecommerce-sales/README.md)
 - [Finance Dashboard](projects/03-finance-and-banking/finance-dashboard/README.md)
