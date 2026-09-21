@@ -24,8 +24,9 @@ This project contains a curated collection of analysis topics across multiple bu
 - `styles.css` — modern UI styling
 - `script.js` — project catalog rendering logic
 - `PROJECTS.md` — project overview and roadmap
-- `projects/` — sample analytics project folders with scripts and CSV data
+- `projects/` — 464 project folders with analysis scripts and documentation
 - `script.js` — complete catalog of 460 data analyst project topics across 18 categories
+- `tools/generate_project_starters.py` — reproducible generator for the topic project folders
 
 ## Featured sample projects
 
@@ -39,11 +40,11 @@ This project contains a curated collection of analysis topics across multiple bu
 
 Twenty technology-focused projects cover helpdesk operations, software quality, application and website performance, APIs, cloud costs, cybersecurity, infrastructure, engineering productivity, SaaS, product engagement, and technology KPIs. See the complete linked catalog in [PROJECTS.md](PROJECTS.md).
 
-Each project includes a sample CSV dataset, a Python analysis script, and a README explaining the business question, KPIs, and recommendation.
+The portfolio contains 25 detailed analyst projects with sample datasets, plus 439 topic-specific starter projects. Every catalog topic has its own folder, README, runnable Python starter, suggested KPIs, and portfolio deliverables.
 
 ## Complete 460-topic catalog
 
-The portfolio website includes all 460 topics from the project roadmap, including sales, e-commerce, finance, HR, marketing, healthcare, transportation, supply chain, education, government, sustainability, sports, entertainment, technology, food, real estate, retail, and advanced analytics. Open [index.html](index.html) to browse the complete catalog.
+The portfolio website includes all 460 topics from the project roadmap, including sales, e-commerce, finance, HR, marketing, healthcare, transportation, supply chain, education, government, sustainability, sports, entertainment, technology, food, real estate, retail, and advanced analytics. Open [index.html](index.html) to browse the complete catalog. The repository contains 464 folders because it also preserves curated projects whose names differ from the catalog slugs.
 
 ## Run the analysis projects
 
