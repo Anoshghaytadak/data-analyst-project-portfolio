@@ -30,6 +30,24 @@ This project contains a curated collection of analysis topics across multiple bu
 - Sales Performance Dashboard
 - E-commerce Sales Analysis
 - Finance Dashboard
+- HR Employee Attrition Analysis
+- Marketing Campaign Performance Analysis
+
+Each project includes a sample CSV dataset, a Python analysis script, and a README explaining the business question, KPIs, and recommendation.
+
+## Run the analysis projects
+
+From the repository root:
+
+```bash
+python3 projects/sales-performance/sales_dashboard.py
+python3 projects/ecommerce-sales/ecommerce_analysis.py
+python3 projects/finance-dashboard/finance_dashboard.py
+python3 projects/hr-attrition/hr_attrition_analysis.py
+python3 projects/marketing-campaigns/marketing_campaign_analysis.py
+```
+
+No external Python packages are required. The projects use Python's built-in CSV and pathlib modules so they are easy to run and explain.
 
 ## How to run locally
 

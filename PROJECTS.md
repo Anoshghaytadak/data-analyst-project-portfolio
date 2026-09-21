@@ -7,6 +7,8 @@ This portfolio contains multiple analytics projects built as sample business int
 - [Sales Performance Dashboard](projects/sales-performance/README.md)
 - [E-commerce Sales Analysis](projects/ecommerce-sales/README.md)
 - [Finance Dashboard](projects/finance-dashboard/README.md)
+- [HR Employee Attrition Analysis](projects/hr-attrition/README.md)
+- [Marketing Campaign Performance Analysis](projects/marketing-campaigns/README.md)
 
 ## Project categories included
 
@@ -22,9 +24,10 @@ This portfolio contains multiple analytics projects built as sample business int
 - Sports
 - Technology
 
-## Suggested next steps
+## How to use this portfolio
 
-1. Add your own cleaned datasets
-2. Create dashboards in Power BI or Tableau
-3. Add SQL queries and notebooks
-4. Publish your results on GitHub with screenshots
+1. Open a project README and understand its business question.
+2. Run the Python script from the repository root.
+3. Replace the sample CSV with a larger dataset while keeping the same column names.
+4. Recreate the KPIs in Power BI or Tableau and add dashboard screenshots.
+5. Explain the business recommendation in an interview.

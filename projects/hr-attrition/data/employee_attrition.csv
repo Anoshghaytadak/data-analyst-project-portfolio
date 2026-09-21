@@ -1,0 +1,17 @@
+EmployeeID,Department,Age,MonthlyIncome,YearsAtCompany,JobSatisfaction,Overtime,Attrition
+E001,Sales,24,3200,1,2,Yes,Yes
+E002,Sales,35,5400,5,4,No,No
+E003,Technology,29,6200,3,3,Yes,No
+E004,Technology,41,8900,9,4,No,No
+E005,Finance,27,4100,2,2,Yes,Yes
+E006,Finance,38,7200,7,3,No,No
+E007,HR,31,4700,4,3,No,No
+E008,Sales,26,3500,2,1,Yes,Yes
+E009,Technology,33,7600,6,4,No,No
+E010,HR,45,8100,12,4,No,No
+E011,Finance,30,5000,3,2,Yes,Yes
+E012,Sales,39,6800,8,3,No,No
+E013,Technology,25,3900,1,2,Yes,Yes
+E014,HR,28,4300,2,2,Yes,Yes
+E015,Finance,44,9500,15,4,No,No
+E016,Sales,32,5100,4,3,No,No
