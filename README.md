@@ -51,11 +51,11 @@ The portfolio website includes all 460 topics from the project roadmap, includin
 From the repository root:
 
 ```bash
-python3 projects/sales-performance/sales_dashboard.py
-python3 projects/ecommerce-sales/ecommerce_analysis.py
-python3 projects/finance-dashboard/finance_dashboard.py
-python3 projects/hr-attrition/hr_attrition_analysis.py
-python3 projects/marketing-campaigns/marketing_campaign_analysis.py
+python3 projects/01-sales-and-business-analytics/sales-performance/sales_dashboard.py
+python3 projects/02-e-commerce-analytics/ecommerce-sales/ecommerce_analysis.py
+python3 projects/03-finance-and-banking/finance-dashboard/finance_dashboard.py
+python3 projects/04-hr-and-employee-analytics/hr-attrition/hr_attrition_analysis.py
+python3 projects/05-marketing-analytics/marketing-campaigns/marketing_campaign_analysis.py
 ```
 
 No external Python packages are required. The projects use Python's built-in CSV and pathlib modules so they are easy to run and explain.
