@@ -1,13 +1,52 @@
-# Data Analyst Projects Portfolio
+# Data Analyst Portfolio
 
-This repository contains a complete portfolio of data analyst and business intelligence projects based on the project list you provided. It is organized by domain, includes all project ideas, and is structured for GitHub publishing.
+A professional portfolio of business intelligence, analytics, and data science projects built to showcase analytical thinking, dashboarding, and decision-making skills.
 
-## Repository structure
+## About this repository
 
-- `index.html` — portfolio landing page with all project categories and project ideas
-- `styles.css` — styling for the portfolio page
-- `script.js` — project data and rendering logic
-- `.gitignore` — standard Git ignore rules
+This project contains a curated collection of analysis topics across multiple business domains, including:
+
+- Sales and retail analytics
+- E-commerce and customer behavior
+- Finance and banking
+- HR and workforce analytics
+- Marketing and digital campaigns
+- Healthcare operations
+- Logistics and supply chain
+- Education and public data
+- Sports, media, technology, and real estate
+- Advanced predictive and portfolio-level analytics
+
+## Portfolio structure
+
+- `index.html` — portfolio dashboard landing page
+- `styles.css` — modern UI styling
+- `script.js` — project catalog rendering logic
+- `PROJECTS.md` — project overview and roadmap
+- `projects/` — sample analytics project folders with scripts and CSV data
+
+## Featured sample projects
+
+- Sales Performance Dashboard
+- E-commerce Sales Analysis
+- Finance Dashboard
+
+## How to run locally
+
+```bash
+cd /Users/macbookpro/data-analyst-project-portfolio
+python3 -m http.server 8000
+```
+
+Then open:
+
+```text
+http://localhost:8000
+```
+
+## GitHub repository
+
+https://github.com/Anoshghaytadak/data-analyst-project-portfolio
 
 ## Project categories included
 
@@ -29,41 +68,6 @@ This repository contains a complete portfolio of data analyst and business intel
 16. Real Estate
 17. Retail & FMCG
 18. Advanced / Portfolio-Level Projects
-
-## How to view locally
-
-Open the project in a browser:
-
-- Option 1: Open `index.html` directly in a browser
-- Option 2: Run a local web server:
-
-```bash
-cd data-analyst-project-portfolio
-python3 -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
-
-## GitHub publish steps
-
-Initialize and push on GitHub:
-
-```bash
-git init
-git add .
-git commit -m "Initial portfolio setup"
-git branch -M main
-git remote add origin <your-github-repo-url>
-git push -u origin main
-```
-
-## Suggested next step
-
-After publishing, add your own screenshots, SQL queries, dashboards, and notebook links to each project to build a real portfolio.
 
 ---
 
