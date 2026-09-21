@@ -25,6 +25,7 @@ This project contains a curated collection of analysis topics across multiple bu
 - `script.js` — project catalog rendering logic
 - `PROJECTS.md` — project overview and roadmap
 - `projects/` — sample analytics project folders with scripts and CSV data
+- `script.js` — complete catalog of 460 data analyst project topics across 18 categories
 
 ## Featured sample projects
 
@@ -39,6 +40,10 @@ This project contains a curated collection of analysis topics across multiple bu
 Twenty technology-focused projects cover helpdesk operations, software quality, application and website performance, APIs, cloud costs, cybersecurity, infrastructure, engineering productivity, SaaS, product engagement, and technology KPIs. See the complete linked catalog in [PROJECTS.md](PROJECTS.md).
 
 Each project includes a sample CSV dataset, a Python analysis script, and a README explaining the business question, KPIs, and recommendation.
+
+## Complete 460-topic catalog
+
+The portfolio website includes all 460 topics from the project roadmap, including sales, e-commerce, finance, HR, marketing, healthcare, transportation, supply chain, education, government, sustainability, sports, entertainment, technology, food, real estate, retail, and advanced analytics. Open [index.html](index.html) to browse the complete catalog.
 
 ## Run the analysis projects
 

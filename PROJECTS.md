@@ -2,6 +2,8 @@
 
 This portfolio contains multiple analytics projects built as sample business intelligence work.
 
+The full roadmap contains **460 data analyst project topics across 18 categories**. The website catalog in [index.html](index.html) and [script.js](script.js) contains every topic from the roadmap. The repository also contains 25 runnable sample projects with Python scripts and documentation.
+
 ## Available projects
 
 - [Sales Performance Dashboard](projects/sales-performance/README.md)
