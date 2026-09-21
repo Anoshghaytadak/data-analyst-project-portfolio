@@ -1,0 +1,16 @@
+OrderID,Category,Revenue,PaymentMethod,Weekday
+1001,Electronics,1500,UPI,Monday
+1002,Fashion,950,Credit Card,Tuesday
+1003,Home,1200,Debit Card,Wednesday
+1004,Electronics,2000,UPI,Thursday
+1005,Fashion,850,COD,Friday
+1006,Home,1550,Credit Card,Saturday
+1007,Electronics,1800,UPI,Sunday
+1008,Fashion,1100,Credit Card,Monday
+1009,Home,1300,Debit Card,Tuesday
+1010,Electronics,2100,UPI,Wednesday
+1011,Fashion,900,COD,Thursday
+1012,Home,1700,Credit Card,Friday
+1013,Electronics,2200,UPI,Saturday
+1014,Fashion,980,Debit Card,Sunday
+1015,Home,1400,Credit Card,Monday
